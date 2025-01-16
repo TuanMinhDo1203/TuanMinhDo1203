@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benxelua
+- 👋 Hi, I’m @bendo1203
 - 👀 I’m interested in Python, AI
 - 🌱 I’m currently learning in FPT University
 - ⚡ Fun fact: I love football
