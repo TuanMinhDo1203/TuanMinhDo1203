@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @bendo1203
+  
 I'm a passionate AI student with a focus on turning theory into real-world impact. From predicting air quality and classifying waste to building intelligent search engines and summarizing legal documents — I love tackling practical challenges using machine learning, deep learning, and data analysis.
 
 ## 💻 What I Do
