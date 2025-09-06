@@ -13,8 +13,10 @@ I'm a passionate AI student with a focus on turning theory into real-world impac
 
 ## 🚧 Current Projects
 
-- 🗂 University Syllabus Search Engine  
-- 🧾 Legal Contract Summarization (extractive & abstractive)  
+- 🗂 University Syllabus Search Engine
+ <!---
+- 🧾 Legal Contract Summarization (extractive & abstractive)
+--->
 - 🌫 AQI Prediction from Weather & Pollution Data  
 - 🧠 Waste Classification using DL features + ML models  
 - 🤖 Reddit Football Sentiment Analysis
