@@ -1,30 +1,34 @@
-- 👋 Hi, I’m @bendo1203
-  
-I'm a passionate AI student with a focus on turning theory into real-world impact. From predicting air quality and classifying waste to building intelligent search engines and summarizing legal documents — I love tackling practical challenges using machine learning, deep learning, and data analysis.
+# 👋 Hi, I’m Ben
 
-## 💻 What I Do
+I’m an AI student passionate about building practical systems that turn ideas into real-world solutions. My interests span machine learning, deep learning, information retrieval, and computer vision, with a strong focus on applying them to meaningful problems.
 
-- 🔎 Information Retrieval & Search Engines  
-- 🧠 Computer Vision (ViT, ResNet, EfficientNet)  
-- 📊 Data Preprocessing & Feature Engineering  
-- 🧪 ML model training & evaluation (SVM, XGBoost, Ridge, Random Forest...)  
-- 📝 Scientific writing & academic projects  
-- 🌐 Learning to deploy and collaborate via Git/GitHub
+From OCR pipelines and intelligent search systems to forecasting, sentiment analysis, and document understanding, I enjoy working on projects that combine technical depth with real-world usefulness.
+
+## 💻 What I Work On
+
+- Information Retrieval and Search Systems  
+- Computer Vision and OCR  
+- Machine Learning and Deep Learning  
+- Data Preprocessing and Feature Engineering  
+- Model Training, Evaluation, and Experimentation  
+- Applied AI projects and research-driven development  
+- Deployment, backend integration, and Git/GitHub collaboration  
 
 ## 🚧 Current Projects
 
-- 🗂 University Syllabus Search Engine
- <!---
-- 🧾 Legal Contract Summarization (extractive & abstractive)
---->
-- 🌫 AQI Prediction from Weather & Pollution Data  
-- 🧠 Waste Classification using DL features + ML models  
-- 🤖 Reddit Football Sentiment Analysis
+- University Syllabus Search Engine  
+- AQI Prediction from Weather and Pollution Data  
+- Waste Classification using Deep Learning features and Machine Learning models  
+- Reddit Football Sentiment Analysis  
+- OCR systems for document and handwritten code understanding  
 
----
-📫 Let’s connect or collaborate:  
-Feel free to check out my repositories or reach out via issues or discussions!
-<!---
-benxelua/benxelua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌱 Currently Learning
+
+- Building more production-ready AI systems  
+- Deployment and system optimization  
+- Writing cleaner, more maintainable code  
+- Collaborating more effectively through GitHub workflows  
+
+## 📫 Connect with Me
+
+Feel free to explore my repositories, open an issue, or reach out if you’d like to connect or collaborate.
